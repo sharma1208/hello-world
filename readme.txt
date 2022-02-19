@@ -1,5 +1,2 @@
 Hello!
-Hi!
-what
-helllooooooooo
-what
+hi
